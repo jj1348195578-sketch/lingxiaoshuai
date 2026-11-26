@@ -158,15 +158,15 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
+#EXTVLCOPT:http-referrer=@trusted
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hlsliveali-cdn.ysp.cctv.cn/96B24216C6E680202BE064DF8430004CC4F7B0219862700960E95DDF8C0DF6ED728504EA19B2ED3E873C7D9D3F0797BFB0BF204BE012C7A08EA2EC5C76696F689BE970AC4049463116F6D3D9D0F499BACF5542E86BF021511F28DA419952795DDAC304E74541360921269C2ECDAEDA53/2024078203_web.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://live-dtocnc-cdn.ysp.cctv.cn/96B24216C6E680202BE064DF8430004CC4F7B0219862700960E95DDF8C0DF6ED728504EA19B2ED3E873C7D9D3F0797BFB0BF204BE012C7A08EA2EC5C76696F689BE970AC4049463116F6D3D9D0F499BACF5542E86BF021511F28DA419952795DDAC304E74541360921269C2ECDAEDA53/2024078203_web.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
-#EXTVLCOPT:http-referrer=@trusted
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -266,15 +266,15 @@ https://hlsliveali-cdn.ysp.cctv.cn/6BE870DDB597567F939AAFB34518409C49B74040C6963
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1_td.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
+#EXTVLCOPT:http-referrer=@trusted
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hlsliveali-cdn.ysp.cctv.cn/ED2A69952A6463EC40E8031C27AB80F8B1BB32FEB8C66638FC9EEF8156E70F7C31420B53099E1861CF4BC55A19284EA93ED00E4268E286D5CF3568D95B2C466AC89C790B5140815902EA67E313979C69CFFB5644580649A2F299198239D4E48EC31AE55590388A29F6ACE6B003FF5D54/2029797203_web.m3u8
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://live-dtocnc-cdn.ysp.cctv.cn/ED2A69952A6463EC40E8031C27AB80F8B1BB32FEB8C66638FC9EEF8156E70F7C31420B53099E1861CF4BC55A19284EA93ED00E4268E286D5CF3568D95B2C466AC89C790B5140815902EA67E313979C69CFFB5644580649A2F299198239D4E48EC31AE55590388A29F6ACE6B003FF5D54/2029797203_web.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
-#EXTVLCOPT:http-referrer=@trusted
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1_td.m3u8
 #EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
 #EXTVLCOPT:http-referrer=@trusted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
