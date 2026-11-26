@@ -1,11 +1,11 @@
-央视频道,#genre#
-CCTV7,http://173.208.212.130:8181/720p/cctv7.m3u8#http://192.168.31.200:8766/cctv7.m3u8
-CCTV13,http://173.208.212.130:8181/720p/cctv13.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://120.76.248.139/live/bfgd/4200000067.m3u8#http://192.168.31.200:8766/cctv13.m3u8
-CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8#http://192.168.31.200:8766/cctv16.m3u8#http://192.168.31.200:8766/cctv164k.m3u8
+央视频道,genre
+CCTV7,http://173.208.212.130:8181/720p/cctv7.m3u8
+CCTV13,http://173.208.212.130:8181/720p/cctv13.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8
 CCTV怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8#http://192.168.31.200:8766/cctv5p.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV9纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2e32e9be109b23b305e92a4d31589fc7
-CGTN,https://0472.org/hls/cgtn.m3u8#http://192.168.31.200:8766/cgtn.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8#https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
@@ -14,32 +14,9 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 CCTV+ 1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV1,http://192.168.31.200:8766/cctv1.m3u8
-CCTV2,http://192.168.31.200:8766/cctv2.m3u8
-CCTV3,http://192.168.31.200:8766/cctv3.m3u8
-CCTV4,http://192.168.31.200:8766/cctv4.m3u8#http://192.168.31.200:8766/cctv4k.m3u8
-CCTV5,http://192.168.31.200:8766/cctv5.m3u8
-CCTV6,http://192.168.31.200:8766/cctv6.m3u8
-CCTV8,http://192.168.31.200:8766/cctv8.m3u8#http://192.168.31.200:8766/cctv8k.m3u8
-CCTV9,http://192.168.31.200:8766/cctv9.m3u8
-CCTV10,http://192.168.31.200:8766/cctv10.m3u8
-CCTV11,http://192.168.31.200:8766/cctv11.m3u8
-CCTV12,http://192.168.31.200:8766/cctv12.m3u8
-CCTV14,http://192.168.31.200:8766/cctv14.m3u8
-CCTV15,http://192.168.31.200:8766/cctv15.m3u8
-CCTV17,http://192.168.31.200:8766/cctv17.m3u8
-CGTN 法语,http://192.168.31.200:8766/cgtnfr.m3u8
-CGTN 俄语,http://192.168.31.200:8766/cgtnru.m3u8
-CGTN 阿拉伯语,http://192.168.31.200:8766/cgtnar.m3u8
-CGTN 西班牙语,http://192.168.31.200:8766/cgtnes.m3u8
-CGTN 纪录,http://192.168.31.200:8766/cgtndoc.m3u8
-CCTV 风云剧场,http://192.168.31.200:8766/cctvfyjc.m3u8
-CCTV 第一剧场,http://192.168.31.200:8766/cctvdyjc.m3u8
-CCTV 怀旧剧场,http://192.168.31.200:8766/cctvhjjc.m3u8
-CETV-1,http://192.168.31.200:8766/cetv1.m3u8
-国学频道,http://192.168.31.200:8766/guoxue.m3u8
+CCTV1,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
 
-卫视频道,#genre#
+卫视频道,genre
 东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8#http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
@@ -65,13 +42,13 @@ CETV-1,http://192.168.31.200:8766/cetv1.m3u8
 厦门卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 深圳卫视 4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
-睛彩频道,#genre#
+睛彩频道,genre
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
 睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
 
-咪视界,#genre#
+咪视界,genre
 咪视界4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 咪视界4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
 咪视界1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha
@@ -113,19 +90,15 @@ CETV-1,http://192.168.31.200:8766/cetv1.m3u8
 咪视界37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=BingCha
 咪视界38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989#http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=BingCha
 
-历年春晚,#genre#
+历年春晚,genre
 春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 春晚1989,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8#https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
-香港频道,#genre#
-翡翠台,https://10.fast.hidns.vip/163189/fct/#http://r.jdshipin.com/62WM7
-明珠台,https://10.fast.hidns.vip/163189/mzt/
-TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
-ViuTV 99台,https://10.fast.hidns.vip/163189/viu/
-ViuTVsix 96台,https://10.fast.hidns.vip/163189/viu6/
+香港频道,genre
+翡翠台,http://r.jdshipin.com/62WM7
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台电视32,https://rthktv31-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -133,10 +106,10 @@ ViuTVsix 96台,https://10.fast.hidns.vip/163189/viu6/
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
 Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist360p.m3u8
 
-澳门频道,#genre#
+澳门频道,genre
 澳视澳门,http://218.13.139.26:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 
-台湾频道,#genre#
+台湾频道,genre
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -154,9 +127,9 @@ CGNTV 中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb93
 TVBS 新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 三立 LIVE,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
-卫视频道·单网,#genre#
+卫视频道·单网,genre
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
-央视频道·单网,#genre#
+央视频道·单网,genre
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV9纪录,https://xykt-fix.github.io/Y77.m3u8
