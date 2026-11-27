@@ -1,23 +1,24 @@
 央视频道,#genre#
-CCTV1,http://183.62.8.58:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv1.m3u8#http://139.227.221.147:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://183.62.8.58:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv2.m3u8#http://139.227.221.147:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://183.62.8.58:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv3.m3u8#http://139.227.221.147:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://183.62.8.58:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv4.m3u8#http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://183.62.8.58:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv5.m3u8#http://139.227.221.147:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://183.62.8.58:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv6.m3u8#http://139.227.221.147:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://183.62.8.58:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv7.m3u8#http://139.227.221.147:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://183.62.8.58:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv8.m3u8#http://139.227.221.147:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://183.62.8.58:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv9.m3u8#http://139.227.221.147:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://183.62.8.58:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv10.m3u8#http://139.227.221.147:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://183.62.8.58:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv11.m3u8#http://139.227.221.147:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://183.62.8.58:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv12.m3u8#http://139.227.221.147:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://183.62.8.58:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv13.m3u8#http://139.227.221.147:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://183.62.8.58:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv14.m3u8#http://139.227.221.147:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://183.62.8.58:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv15.m3u8#http://139.227.221.147:9901/tsfile/live/0015_1.m3u8?key=txiptv
+# bfgd 公网 H.264，移动/联通/电信都能过（2026-11-27 加）
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8#http://183.62.8.58:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv1.m3u8#http://139.227.221.147:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8#http://183.62.8.58:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv2.m3u8#http://139.227.221.147:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8#http://183.62.8.58:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv3.m3u8#http://139.227.221.147:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8#http://183.62.8.58:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv4.m3u8#http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8#http://183.62.8.58:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv5.m3u8#http://139.227.221.147:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8#http://183.62.8.58:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv6.m3u8#http://139.227.221.147:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8#http://183.62.8.58:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv7.m3u8#http://139.227.221.147:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8#http://183.62.8.58:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv8.m3u8#http://139.227.221.147:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8#http://183.62.8.58:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv9.m3u8#http://139.227.221.147:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8#http://183.62.8.58:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv10.m3u8#http://139.227.221.147:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8#http://183.62.8.58:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv11.m3u8#http://139.227.221.147:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8#http://183.62.8.58:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv12.m3u8#http://139.227.221.147:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8#http://183.62.8.58:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv13.m3u8#http://139.227.221.147:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8#http://183.62.8.58:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv14.m3u8#http://139.227.221.147:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8#http://183.62.8.58:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv15.m3u8#http://139.227.221.147:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV4亚洲,http://173.208.212.130:8181/720p/cctv4.m3u8#http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5+,http://173.208.212.130:8181/720p/cctv5p.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8#http://173.208.212.130:8181/720p/cctv5p.m3u8
 CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8
-CCTV17,http://173.208.212.130:8181/720p/cctv17.m3u8
+CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8#http://173.208.212.130:8181/720p/cctv17.m3u8
 CCTV第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
 CCTV风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 CCTV风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
@@ -123,6 +124,7 @@ CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 邵氏3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssxj
 
 香港频道,#genre#
+# 2026-11-27 新增：无线新闻 + 怀旧四台
 翡翠台,https://10.fast.hidns.vip/163189/fct/
 明珠台,https://10.fast.hidns.vip/163189/mzt/
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
@@ -133,6 +135,11 @@ ViuTVsix 96台,https://10.fast.hidns.vip/163189/viu6/
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist360p.m3u8
+无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT#http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
+天映經典,https://cdn3.indevs.in/stream/live/ccm/
+华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
 
 澳门频道,#genre#
 澳门莲花卫视,https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=14641-mp4a_256000_eng=343.m3u8
